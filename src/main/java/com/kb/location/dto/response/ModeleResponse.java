@@ -3,6 +3,7 @@ package com.kb.location.dto.response;
 import java.util.UUID;
 
 public class ModeleResponse {
+	
     private String nom;
     private MarqueResponse marque;
     private UUID trackingId;
